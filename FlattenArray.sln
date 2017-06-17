@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenArray", "FlattenArray\FlattenArray.csproj", "{A60BEDD9-D971-4D4D-A749-F09ADDFBF698}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlattenArray.Tests", "FlattenArray.Tests\FlattenArray.Tests.csproj", "{11A7292A-1305-48FF-B3E5-C1E4EF39A235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A60BEDD9-D971-4D4D-A749-F09ADDFBF698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A60BEDD9-D971-4D4D-A749-F09ADDFBF698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A60BEDD9-D971-4D4D-A749-F09ADDFBF698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A60BEDD9-D971-4D4D-A749-F09ADDFBF698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A7292A-1305-48FF-B3E5-C1E4EF39A235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A7292A-1305-48FF-B3E5-C1E4EF39A235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A7292A-1305-48FF-B3E5-C1E4EF39A235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A7292A-1305-48FF-B3E5-C1E4EF39A235}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
